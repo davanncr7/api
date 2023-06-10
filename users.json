@@ -1,5 +1,4 @@
-{
-  "users": [
+ [
     {
       "name": "Ethan Lee",
       "email": "ethanlee@example.com",
@@ -241,4 +240,4 @@
       }
     }
   ]
-}
+
